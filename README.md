@@ -16,7 +16,7 @@ Additional details will be added soon.
 ## [Dataset](https://github.com/periakiva/MATTER/blob/main/docs/dataset_genetation.md)
 
 ##### Option 1: Download dataset from Google Drive:
-[Download from here](https://drive.google.com/drive/folders/13cRnevIdM2ogBnvxg6VdkyL4GJ1yZkGm?usp=sharing)
+[Download from here (216.1 GB)](https://drive.google.com/drive/folders/13cRnevIdM2ogBnvxg6VdkyL4GJ1yZkGm?usp=sharing)
 
 ##### Option 2: Use python script to download dataset: 
 
