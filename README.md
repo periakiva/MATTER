@@ -50,10 +50,12 @@ Precision, recall, and F-1 (%) accuracies (higher is better) of the ”change”
 
 ## Citing MATTER
 ```
-@article{akiva2021self,
-  title={Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks},
-  author={Akiva, Peri and Purri, Matthew and Leotta, Matthew},
-  journal={arXiv preprint arXiv:2112.01715},
-  year={2021}
+@InProceedings{Akiva_2022_CVPR,
+    author    = {Akiva, Peri and Purri, Matthew and Leotta, Matthew},
+    title     = {Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {8203-8215}
 }
 ```
